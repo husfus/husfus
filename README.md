@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @husfus
+- 👀 I’m interested in JS, Swift, and Rust
+- 🌱 I’m currently learning Rust
